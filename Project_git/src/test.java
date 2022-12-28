@@ -5,4 +5,7 @@ public class test {
 		System.out.println("pratik");
 		System.out.println("chunkikar");
 	}
+	public void m1(){
+	System.out.println("m1");
+	}
 }
